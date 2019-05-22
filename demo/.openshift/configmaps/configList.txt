@@ -1,0 +1,2 @@
+./src/main/resources/log4j.properties mount /data/
+./src/main/resources/appdisplay.properties env 
